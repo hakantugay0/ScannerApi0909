@@ -46,6 +46,7 @@ namespace Scanner.API
                     ValidateIssuerSigningKey = true,
                     IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey),
                     ClockSkew = TimeSpan.Zero
+                    //Selam
                 };
             });
 
