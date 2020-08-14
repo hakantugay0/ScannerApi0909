@@ -1,0 +1,9 @@
+C:\Projeler\Scanner\Scanner\Scanner.Core\bin\Release\netcoreapp3.1\Scanner.Core.deps.json
+C:\Projeler\Scanner\Scanner\Scanner.Core\bin\Release\netcoreapp3.1\Scanner.Core.dll
+C:\Projeler\Scanner\Scanner\Scanner.Core\bin\Release\netcoreapp3.1\Scanner.Core.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Core\obj\Release\netcoreapp3.1\Scanner.Core.csprojAssemblyReference.cache
+C:\Projeler\Scanner\Scanner\Scanner.Core\obj\Release\netcoreapp3.1\Scanner.Core.AssemblyInfoInputs.cache
+C:\Projeler\Scanner\Scanner\Scanner.Core\obj\Release\netcoreapp3.1\Scanner.Core.AssemblyInfo.cs
+C:\Projeler\Scanner\Scanner\Scanner.Core\obj\Release\netcoreapp3.1\Scanner.Core.csproj.CoreCompileInputs.cache
+C:\Projeler\Scanner\Scanner\Scanner.Core\obj\Release\netcoreapp3.1\Scanner.Core.dll
+C:\Projeler\Scanner\Scanner\Scanner.Core\obj\Release\netcoreapp3.1\Scanner.Core.pdb

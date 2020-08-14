@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Lenovo\Desktop\ScannerPublish</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SqlConStr">
+      <Value>Server=165.232.68.132%3bDatabase=Scanner%3bUser Id=sa%3bPassword=e1n2e3s4.A%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

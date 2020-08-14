@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scanner.Core", "Scanner.Core\Scanner.Core.csproj", "{61E9A458-955B-4003-85C3-CC1E14717947}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scanner.Data", "Scanner.Data\Scanner.Data.csproj", "{107B5BF6-4522-4B74-9EEA-84BCD7065114}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scanner.Service", "Scanner.Service\Scanner.Service.csproj", "{A6971922-5579-4D4F-BDE3-B0B6B83BAC09}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scanner.Helper", "Scanner.Helper\Scanner.Helper.csproj", "{A40AC57B-EB1A-45D5-BBD7-3CA723D8CD46}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scanner.API", "Scanner.API\Scanner.API.csproj", "{DD79AA97-3BCE-4664-9BB1-CE40F9D9332C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scanner.Resolver", "Scanner.Resolver\Scanner.Resolver.csproj", "{7EAC277D-CAF9-4D30-A0AB-C1D4F6703F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61E9A458-955B-4003-85C3-CC1E14717947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E9A458-955B-4003-85C3-CC1E14717947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E9A458-955B-4003-85C3-CC1E14717947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E9A458-955B-4003-85C3-CC1E14717947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107B5BF6-4522-4B74-9EEA-84BCD7065114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107B5BF6-4522-4B74-9EEA-84BCD7065114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107B5BF6-4522-4B74-9EEA-84BCD7065114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107B5BF6-4522-4B74-9EEA-84BCD7065114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6971922-5579-4D4F-BDE3-B0B6B83BAC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6971922-5579-4D4F-BDE3-B0B6B83BAC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6971922-5579-4D4F-BDE3-B0B6B83BAC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6971922-5579-4D4F-BDE3-B0B6B83BAC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40AC57B-EB1A-45D5-BBD7-3CA723D8CD46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40AC57B-EB1A-45D5-BBD7-3CA723D8CD46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40AC57B-EB1A-45D5-BBD7-3CA723D8CD46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40AC57B-EB1A-45D5-BBD7-3CA723D8CD46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD79AA97-3BCE-4664-9BB1-CE40F9D9332C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD79AA97-3BCE-4664-9BB1-CE40F9D9332C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD79AA97-3BCE-4664-9BB1-CE40F9D9332C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD79AA97-3BCE-4664-9BB1-CE40F9D9332C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAC277D-CAF9-4D30-A0AB-C1D4F6703F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAC277D-CAF9-4D30-A0AB-C1D4F6703F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAC277D-CAF9-4D30-A0AB-C1D4F6703F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAC277D-CAF9-4D30-A0AB-C1D4F6703F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B0472C7-012F-4EC1-B371-93F2A739085D}
+	EndGlobalSection
+EndGlobal

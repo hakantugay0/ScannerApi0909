@@ -1,0 +1,14 @@
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Helper.deps.json
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Helper.dll
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Helper.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Core.dll
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Data.dll
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Data.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Helper\bin\Debug\netcoreapp3.1\Scanner.Core.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.csprojAssemblyReference.cache
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.AssemblyInfoInputs.cache
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.AssemblyInfo.cs
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.csproj.CopyComplete
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.dll
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Helper\obj\Debug\netcoreapp3.1\Scanner.Helper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Service.deps.json
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Service.dll
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Service.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Core.dll
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Core.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.csprojAssemblyReference.cache
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.AssemblyInfoInputs.cache
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.AssemblyInfo.cs
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.csproj.CoreCompileInputs.cache
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.csproj.CopyComplete
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.dll
+C:\Projeler\Scanner\Scanner\Scanner.Service\obj\Debug\netcoreapp3.1\Scanner.Service.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Data.dll
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Helper.dll
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Helper.pdb
+C:\Projeler\Scanner\Scanner\Scanner.Service\bin\Debug\netcoreapp3.1\Scanner.Data.pdb
