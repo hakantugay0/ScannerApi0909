@@ -29,6 +29,7 @@ namespace Scanner.API
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    webBuilder.UseKestrel();
                 });
     }
 }

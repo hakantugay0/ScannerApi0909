@@ -28,7 +28,25 @@ namespace Scanner.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(Configuration["ConnectionStrings:SqlConStr"].ToString()));
+
+            string hostServer = Configuration["HOST_SERVER"] ?? ".";
+            string serverPort = Configuration["HOST_PORT"] ?? "1433";
+            string databaseName = Configuration["DATABASE_NAME"] ?? "Scanner";
+            string userName = Configuration["USERNAME"];
+            string password = Configuration["SA_PASSWORD"];
+
+            string connectionString;
+
+            if (string.IsNullOrEmpty(userName) || string.IsNullOrEmpty(password))
+            {
+                connectionString = Configuration["ConnectionStrings:SqlConStr"];
+            }
+            else
+            {
+                connectionString = $"Server={hostServer},{serverPort};Database={databaseName};User Id={userName};Password={password};";
+            }
+
+            services.AddDbContext<AppDbContext>(options => options.UseSqlServer(connectionString));
 
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
@@ -61,7 +79,7 @@ namespace Scanner.API
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            if (env.IsDevelopment())
+            if (true || env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwaggerDocumentation();

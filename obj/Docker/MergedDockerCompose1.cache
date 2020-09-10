@@ -1,0 +1,33 @@
+services:
+  db:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: master
+    image: mcr.microsoft.com/mssql/server:2017-CU21-ubuntu-16.04
+    ports:
+    - published: 1433
+      target: 1433
+  scanner.api:
+    build:
+      context: C:\Projeler\ScannerGit\Scanner\Scanner
+      dockerfile: Scanner.API/Dockerfile
+    depends_on:
+    - db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+      DATABASE_NAME: Scanner
+      HOST_PORT: '1433'
+      HOST_SERVER: .
+      SA_PASSWORD: master
+      USERNAME: sa
+    image: scannerapi
+    ports:
+    - published: 80
+      target: 80
+    - target: 80
+    - target: 443
+    volumes:
+    - C:\Users\Lenovo\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\Lenovo\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'
