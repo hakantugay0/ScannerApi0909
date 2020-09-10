@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj": {}
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj": {}
   },
   "projects": {
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj": {
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj",
+        "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj",
         "projectName": "Scanner.API",
-        "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj",
+        "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.API\\obj\\",
+        "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
               },
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj"
               },
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj"
               }
             }
           }
@@ -76,6 +76,10 @@
               "target": "Package",
               "version": "[3.1.6, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.1, )"
@@ -94,15 +98,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[3.1.5, 3.1.5]"
+              "version": "[3.1.7, 3.1.7]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.linux-x64",
-              "version": "[3.1.5, 3.1.5]"
+              "version": "[3.1.7, 3.1.7]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-              "version": "[3.1.5, 3.1.5]"
+              "version": "[3.1.7, 3.1.7]"
             }
           ],
           "frameworkReferences": {
@@ -113,7 +117,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -122,14 +126,14 @@
         }
       }
     },
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj",
+        "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj",
         "projectName": "Scanner.Core",
-        "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj",
+        "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\obj\\",
+        "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,18 +176,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj",
+        "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj",
         "projectName": "Scanner.Data",
-        "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj",
+        "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\obj\\",
+        "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,8 +205,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj"
               }
             }
           }
@@ -256,18 +260,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj",
+        "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj",
         "projectName": "Scanner.Helper",
-        "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj",
+        "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\obj\\",
+        "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -285,8 +289,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
               }
             }
           }
@@ -343,18 +347,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj": {
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj",
+        "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj",
         "projectName": "Scanner.Resolver",
-        "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj",
+        "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Resolver\\obj\\",
+        "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -372,14 +376,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj"
               },
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
               },
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj"
               }
             }
           }
@@ -416,18 +420,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projeler\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj": {
+    "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj",
+        "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj",
         "projectName": "Scanner.Service",
-        "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj",
+        "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Service\\Scanner.Service.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Service\\obj\\",
+        "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -445,11 +449,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj"
               },
-              "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
-                "projectPath": "C:\\Projeler\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj"
+              "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
+                "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj"
               }
             }
           }
@@ -480,7 +484,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

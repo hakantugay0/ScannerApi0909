@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  scanner.api:
+    image: ${DOCKER_REGISTRY-}scannerapi
+    environment:
+      HOST_SERVER: "."
+      HOST_PORT: "1433"
+      USERNAME: "sa"
+      DATABASE_NAME: "Scanner"
+      SA_PASSWORD: "master"
+    build:
+      context: .
+      dockerfile: Scanner.API/Dockerfile
+    ports:
+      - "80:80"
+    depends_on:
+      - db
+  db:
+    image: "mcr.microsoft.com/mssql/server:2017-CU21-ubuntu-16.04"
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "master"
+      ACCEPT_EULA: "Y"
