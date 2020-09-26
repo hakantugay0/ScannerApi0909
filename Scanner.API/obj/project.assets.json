@@ -2385,10 +2385,7 @@
         },
         "runtime": {
           "bin/placeholder/Scanner.Helper.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Scanner.Resolver/1.0.0": {
         "type": "project",
@@ -2404,10 +2401,7 @@
         },
         "runtime": {
           "bin/placeholder/Scanner.Resolver.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Scanner.Service/1.0.0": {
         "type": "project",
@@ -2421,10 +2415,7 @@
         },
         "runtime": {
           "bin/placeholder/Scanner.Service.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     },
     ".NETCoreApp,Version=v3.1/ubuntu.18.04-x64": {
@@ -4932,10 +4923,7 @@
         },
         "runtime": {
           "bin/placeholder/Scanner.Helper.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Scanner.Resolver/1.0.0": {
         "type": "project",
@@ -4951,10 +4939,7 @@
         },
         "runtime": {
           "bin/placeholder/Scanner.Resolver.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "Scanner.Service/1.0.0": {
         "type": "project",
@@ -4968,10 +4953,7 @@
         },
         "runtime": {
           "bin/placeholder/Scanner.Service.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -11190,41 +11172,43 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\murat\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj",
+      "projectUniqueName": "D:\\Repositories\\Scanner\\Scanner.API\\Scanner.API.csproj",
       "projectName": "Scanner.API",
-      "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\Scanner.API.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.API\\obj\\",
+      "projectPath": "D:\\Repositories\\Scanner\\Scanner.API\\Scanner.API.csproj",
+      "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositories\\Scanner\\Scanner.API\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+        "C:\\Users\\murat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
-              "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
+            "D:\\Repositories\\Scanner\\Scanner.Data\\Scanner.Data.csproj": {
+              "projectPath": "D:\\Repositories\\Scanner\\Scanner.Data\\Scanner.Data.csproj"
             },
-            "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
-              "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj"
+            "D:\\Repositories\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj": {
+              "projectPath": "D:\\Repositories\\Scanner\\Scanner.Helper\\Scanner.Helper.csproj"
             },
-            "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj": {
-              "projectPath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj"
+            "D:\\Repositories\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj": {
+              "projectPath": "D:\\Repositories\\Scanner\\Scanner.Resolver\\Scanner.Resolver.csproj"
             }
           }
         }

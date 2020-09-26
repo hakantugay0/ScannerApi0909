@@ -6,9 +6,9 @@ services:
     environment:
       HOST_SERVER: "."
       HOST_PORT: "1433"
-      USERNAME: "sa"
+      USERNAME: "SA"
       DATABASE_NAME: "Scanner"
-      SA_PASSWORD: "master2"
+      SA_PASSWORD: "e1s2e3n4.A"
     build:
       context: .
       dockerfile: Scanner.API/Dockerfile

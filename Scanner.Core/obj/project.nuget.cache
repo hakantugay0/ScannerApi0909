@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ppI7NzV5rtzpfKJBTQqlXS43lGQQDSEKQSc0IcMIEr7A9utPHY/mXBVrbphypJ9NDBBuMplEbSpSh6KaGEQWfA==",
+  "dgSpecHash": "lzePzJBwlYmWZFwZi038rdpdkNajgZGhHg83NWgF6ad5OeP4iC8ScELtpSMepcFOQNIlICNh2GX51r9yHosa9Q==",
   "success": true,
-  "projectFilePath": "C:\\Projeler\\ScannerGit\\Scanner\\Scanner\\Scanner.Core\\Scanner.Core.csproj",
+  "projectFilePath": "D:\\Repositories\\Scanner\\Scanner.Core\\Scanner.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
